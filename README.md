@@ -1,6 +1,6 @@
-# primeiro_projeto
+#Gerador de frases em flutter
 
-Primeiro proj
+Primeiro projeto gerado em flutter com funcoes basicas 
 
 ## Getting Started
 
